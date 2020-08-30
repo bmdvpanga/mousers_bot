@@ -1,0 +1,6 @@
+datetime
+dotenv
+markovify
+os
+requests
+tweepy
